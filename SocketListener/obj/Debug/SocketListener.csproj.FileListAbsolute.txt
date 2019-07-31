@@ -1,0 +1,7 @@
+c:\users\akhullar\source\repos\SocketListener\SocketListener\bin\Debug\SocketListener.exe.config
+c:\users\akhullar\source\repos\SocketListener\SocketListener\bin\Debug\SocketListener.exe
+c:\users\akhullar\source\repos\SocketListener\SocketListener\bin\Debug\SocketListener.pdb
+c:\users\akhullar\source\repos\SocketListener\SocketListener\obj\Debug\SocketListener.csproj.CoreCompileInputs.cache
+c:\users\akhullar\source\repos\SocketListener\SocketListener\obj\Debug\SocketListener.exe
+c:\users\akhullar\source\repos\SocketListener\SocketListener\obj\Debug\SocketListener.pdb
+c:\users\akhullar\source\repos\SocketListener\SocketListener\obj\Debug\SocketListener.csprojResolveAssemblyReference.cache
